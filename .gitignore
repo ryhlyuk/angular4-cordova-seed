@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+node_modules/*
+plugins/*
+platforms/*
+dist/
+builds/
+res/
+www/
+!plugins/fetch.json
+!plugins/platforms.json
